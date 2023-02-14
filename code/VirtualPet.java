@@ -1,6 +1,6 @@
 // Kailey Bergeron 
 // October 16th, 2021
-// Homework 3
+// Virtual Pet
 
 // import class scanner
 import java.util.Scanner;
